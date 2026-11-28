@@ -35,16 +35,16 @@
     "eslint-config-vercel-ai": "workspace:*",
     "husky": "^8.0.0",
     "lint-staged": "15.2.10",
-    "next": "16.2.7",
+    "next": "16.4.6",
     "playwright": "^1.44.1",
     "prettier": "3.5.3",
     "prettier-plugin-svelte": "^3.3.3",
     "publint": "0.2.12",
     "react": "19.0.0-rc-cc1ec60d0d-20240607",
     "react-dom": "19.0.0-rc-cc1ec60d0d-20240607",
-    "turbo": "2.9.14",
+    "turbo": "2.11.13",
     "typescript": "5.8.3",
-    "vitest": "3.2.6"
+    "vitest": "4.1.11"
   },
   "engines": {
     "node": "^18.0.0 || ^20.0.0 || ^22.0.0"
